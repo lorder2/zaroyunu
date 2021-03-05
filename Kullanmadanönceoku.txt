@@ -1,1 +1,2 @@
 Bu Proje Tkinter Ve Random Modülünü Kullanarak Yapılmıştır Dünyanın En Basit Projesidir :D
+Eğer Bunu Cmdden Çalıştırırsanız Hemen Kapana Bilir Bu Nedenle İdle Python İle Açıp Kullan Knk
