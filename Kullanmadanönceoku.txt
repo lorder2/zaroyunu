@@ -1,0 +1,1 @@
+Bu Proje Tkinter Ve Random Modülünü Kullanarak Yapılmıştır Dünyanın En Basit Projesidir :D
